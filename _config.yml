@@ -11,7 +11,7 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 remote_theme           : "mmistakes/minimal-mistakes@4.24.0"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    :  "air" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-IN"
@@ -19,7 +19,7 @@ title                    : "Saif Rahman"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Saif Rahman"
-description              : "An amazing website."
+description              : "Saif Rahman's personal blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -78,7 +78,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "saif_rahmn"
 facebook:
   username               :
   app_id                 :
@@ -102,10 +102,17 @@ analytics:
 # Site Author
 author:
   name             : "Saif Rahman"
+<<<<<<< HEAD
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
+=======
+  avatar           : "/assets/images/biophoto.jpg"
+  bio              : "I am an **not amazing** person."
+  location         : "Nagpur"
+  email            : "saifrahmn78@gmail.com"
+>>>>>>> a8ed148bc9c2336c68ca101001bef573ba1c597c
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -115,16 +122,16 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      url: "https://twitter.com/saif_rahmn"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/saifrahmn"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/saif_rahmn"
 
 # Site Footer
 footer:
