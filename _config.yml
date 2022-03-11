@@ -107,12 +107,12 @@ analytics:
 author:
   name             : "Saif Rahman"
 <<<<<<< HEAD
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/biophoto.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
   email            :
 =======
-  avatar           : "/assets/images/biophoto.jpg"
+  avatar           : 
   bio              : "I am an **not amazing** person."
   location         : "Nagpur"
   email            : "saifrahmn78@gmail.com"
